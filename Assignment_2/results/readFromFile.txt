@@ -1,0 +1,9 @@
+readFromFile Result from File: Assignment_2/results/studentGrades.txt
+
+Student Grades:
+Sarun: D
+Shreyas: A
+Sanj: B
+
+
+File read successfully.
