@@ -1,0 +1,19 @@
+Frontend (Node.js with Express):
+Create a frontend using Express and Node.js.
+Include a form similar to the one from the Flask Assignment 2.
+Configure the form to send a request to the Flask backend.
+
+Backend (Flask):
+Use the Flask backend to handle the form submission and process the data.
+
+Folder Structure:
+Organize the project with separate folders for the frontend and backend.
+
+Docker Configuration:
+Create a Dockerfile for both the frontend and backend.
+
+Write a .yaml file (Docker Compose) to connect both services in the same network.
+Upload both images to docker hub and push your whole code to github and add the node_modules and other non required files(.vscode) in .gitignore
+
+
+Used Flask for both frontend and backend since i am not well versed with Node.js and Express JS and it not a the key point of this course/section. 
